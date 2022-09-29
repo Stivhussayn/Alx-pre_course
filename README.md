@@ -1,2 +1,3 @@
 # Alx-project-1
-This is my first practical assignment on Alx software engineering .
+Am now an Alx student
+ this is my first repository as a fullstack engineer.
